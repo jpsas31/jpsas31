@@ -4,7 +4,6 @@ A little bit about me:
 
 - Studying Systems Engineering in Universidad del Valle, Cali, Colombia
 - Doing an exchange programm in Computer sciencien and Artificial Intelligence in Technische Hochschule, Ingolstadt, Germany 
-- 
 ### Connect with me 🤝
 
 <a href="[https://www.linkedin.com/in/juan-pablo-salgado-salas](https://www.linkedin.com/in/juan-pablo-salgado-salas-b7486b21a/)">
@@ -21,6 +20,6 @@ A little bit about me:
 
 ---
 ## GitHub activity 
-[![Pablos's github stats](https://github-readme-stats.vercel.app/api?username=jpsas31)](https://github.com/jpsas31)
+[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsas31)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsas31&layout=compact)](https://github.com/jpsas31)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsas31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
