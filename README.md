@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, my name is Juan Pablo Salgado Salas 👋
 
-<!--
-**jpsas31/jpsas31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little bit about me:
 
-Here are some ideas to get you started:
+- Studying Systems Engineering in Universidad del Valle, Cali, Colombia
+- Doing an exchange programm in Computer sciencien and Artificial Intelligence in Technische Hochschule, Ingolstadt, Germany 
+- 
+### Connect with me 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="[https://www.linkedin.com/in/juan-pablo-salgado-salas](https://www.linkedin.com/in/juan-pablo-salgado-salas-b7486b21a/)">
+  <img align="left" alt="Juan Pablo's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+</br>
+
+## interests
+- Software development (Webapps)
+- Artificial Intelligence
+- Data Science
+
+
+---
+## GitHub activity 
+[![Pablos's github stats](https://github-readme-stats.vercel.app/api?username=jpsas31)](https://github.com/jpsas31)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsas31&layout=compact)](https://github.com/jpsas31)
