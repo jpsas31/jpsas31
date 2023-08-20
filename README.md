@@ -7,7 +7,7 @@ A little bit about me:
 ### Connect with me 🤝
 
 <a href="[https://www.linkedin.com/in/juan-pablo-salgado-salas](https://www.linkedin.com/in/juan-pablo-salgado-salas-b7486b21a/)">
-  <img align="left" alt="Juan Pablo's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+Linkedin
 </a>
 
 </br>
