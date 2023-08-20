@@ -6,7 +6,7 @@ A little bit about me:
 - Participating on an exchange programm in Computer Science and Artificial Intelligence in Technische Hochschule, Ingolstadt, Germany 
 ### Connect with me 🤝
 
-<a href="[https://www.linkedin.com/in/juan-pablo-salgado-salas](https://www.linkedin.com/in/juan-pablo-salgado-salas-b7486b21a/)">
+<a href="https://www.linkedin.com/in/juan-pablo-salgado-salas-b7486b21a/">
 Linkedin
 </a>
 
